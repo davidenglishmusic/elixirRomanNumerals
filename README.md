@@ -1,4 +1,4 @@
 RomanNumerals
 =============
 
-** TODO: Add description **
+A quick implementation of the roman numerals kata via Elixir
